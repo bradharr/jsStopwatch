@@ -30,10 +30,11 @@ body, html {
     color: white;
     border: white;
     border-style: solid;
-    border-radius: 50%;
     font-size: 20px;
     margin-right: 20px;
     cursor: pointer;
+    padding: 1%;
+    width: 150px;
   }
 
 .button-div {
